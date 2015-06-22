@@ -9,7 +9,7 @@ a lightweighted HTTP server response benchmark tools. It is capable of sending c
  OPTIONS
         {numOfConns} is number of concurrent connections, default is 1, limited to 100
         {numOfRequests} is number of requests to send, default is 5, limited to 1000
- 0Example
+ Example
         python httb.py www.server.com/page 10 100</pre>
 
 # Prerequest
