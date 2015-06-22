@@ -16,6 +16,6 @@ a lightweighted HTTP server response benchmark tools. It is capable of sending c
 # Prerequest
 Developed on Python 2.7.9 https://www.python.org/downloads/<br />
 Required Python modules:<br />
-<pre><code>requests, github.com/kennethreitz/requests</code></pre>
+<pre><code>requests, www.github.com/kennethreitz/requests</code></pre>
 Install modules:<br />
   <pre><code>pip install requests</code></pre><br />
