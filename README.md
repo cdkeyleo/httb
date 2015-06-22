@@ -14,7 +14,7 @@ a lightweighted HTTP server response benchmark tools. It is capable of sending c
         python httb.py www.server.com/page 10 100</code></pre>
 
 # Prerequest
-Developed on Python 2.7.9<br />
+Developed on Python 2.7.9 https://www.python.org/downloads/<br />
 Required Python modules:<br />
 <pre><code>requests</code></pre>
 Install modules:<br />
