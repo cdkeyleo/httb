@@ -2,7 +2,8 @@
 a lightweighted HTTP server response benchmark tools. It is capable of sending concurrent HTTP Get requests.<br />
 
 # Usage
- <pre><code>NAME
+ <pre><code>
+ NAME
         httb.py - benchmark HTTP server with concurrent requests
  SYNOPSIS
         python httb.py {target_url} {numOfConns} {numOfRequests}
